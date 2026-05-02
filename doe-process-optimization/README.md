@@ -1,7 +1,7 @@
 # DOE Process Optimization Project
 
 ## Overview
-This project uses Design of Experiments (DOE) to analyze how different process variables affect product quality.
+This project aims to improve a process by analyzing how different variables impact the outcome using Python (Pandas), statistical analysis techniques, Excel, and Power BI for data visualization and performance tracking.
 
 ## Objective
 This project aims to improve a process by analyzing how different factors affect the outcome.
