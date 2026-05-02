@@ -37,4 +37,4 @@ High Temperature + Long Time + Material A
 Power BI dashboard included in /dashboard folder
 
 ## Author
-Jean-Pierre Hidi
+Jean Pierre Idi
