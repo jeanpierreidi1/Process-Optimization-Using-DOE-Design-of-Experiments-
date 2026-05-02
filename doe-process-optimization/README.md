@@ -7,7 +7,7 @@ This project aims to improve a process by analyzing how different variables impa
 This project aims to improve a process by analyzing how different factors affect the outcome.
 
 ## Tools Used
-- Python (Pandas)
+- Python 
 - Excel
 - Power BI
 - Statistical Analysis
@@ -30,6 +30,8 @@ The dataset includes:
 - Material A performed better
 
 ## Conclusion
+The analysis shows that the optimal process condition is High Temperature, Long Processing Time, and Material A, which consistently produces the highest quality output. This combination minimizes variability and maximizes performance, making it the most effective setting for process optimization.
+
 The optimal condition is:
 High Temperature + Long Time + Material A
 
